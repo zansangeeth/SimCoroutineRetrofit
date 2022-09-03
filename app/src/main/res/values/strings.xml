@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimCoroutineRetrofit</string>
+    <string name="generate_random_dog">Generate random dog</string>
+</resources>
